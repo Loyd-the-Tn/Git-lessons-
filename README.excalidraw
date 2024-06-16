@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "ellipse",
-      "version": 278,
-      "versionNonce": 334378835,
+      "version": 281,
+      "versionNonce": 894396622,
       "isDeleted": false,
       "id": "vJszTicKtOs52aWJmm8f4",
       "fillStyle": "solid",
@@ -51,9 +51,13 @@
         {
           "id": "SMA2GlhK-sGHqGUHwjVc_",
           "type": "arrow"
+        },
+        {
+          "id": "Ai5Qj4MUP8sQMUTkfeZvj",
+          "type": "arrow"
         }
       ],
-      "updated": 1715941331095,
+      "updated": 1718550612199,
       "link": null,
       "locked": false
     },
@@ -147,8 +151,8 @@
     },
     {
       "type": "embeddable",
-      "version": 200,
-      "versionNonce": 23913573,
+      "version": 202,
+      "versionNonce": 1594827406,
       "isDeleted": false,
       "id": "Tdm4C768uyj5hfKHq-QwT",
       "fillStyle": "solid",
@@ -179,7 +183,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1716760269023,
+      "updated": 1718539772407,
       "link": "Git  is a version control system  that enables collaboration amongst programmers.  Using Git allows you to invite other developers to look at your code. Git is installed locally on your device.",
       "locked": false,
       "validated": false
@@ -670,8 +674,8 @@
     },
     {
       "type": "text",
-      "version": 31,
-      "versionNonce": 410024715,
+      "version": 33,
+      "versionNonce": 1979325202,
       "isDeleted": false,
       "id": "TiJuuUaFDJC6G7PIEGjJr",
       "fillStyle": "solid",
@@ -691,7 +695,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1716760269139,
+      "updated": 1718539772598,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -706,8 +710,8 @@
     },
     {
       "type": "text",
-      "version": 163,
-      "versionNonce": 1093717797,
+      "version": 165,
+      "versionNonce": 311842574,
       "isDeleted": false,
       "id": "1gNERF1y_-9tVEVPWJMIY",
       "fillStyle": "solid",
@@ -727,7 +731,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1716760269141,
+      "updated": 1718539772600,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3852,33 +3856,42 @@
       "baseline": 69
     },
     {
-      "id": "4c1cPsvdIWhF7TI4-4s-3",
       "type": "arrow",
-      "x": 1122.2372622083499,
-      "y": 766.5429480519701,
-      "width": 485,
-      "height": 176,
-      "angle": 0,
-      "strokeColor": "#2f9e44",
-      "backgroundColor": "transparent",
+      "version": 193,
+      "versionNonce": 848052805,
+      "isDeleted": false,
+      "id": "4c1cPsvdIWhF7TI4-4s-3",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1122.2372622083499,
+      "y": 766.5429480519701,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 485,
+      "height": 176,
+      "seed": 399939461,
       "groupIds": [],
       "frameId": null,
       "roundness": {
         "type": 2
       },
-      "seed": 399939461,
-      "version": 193,
-      "versionNonce": 848052805,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1716761570080,
       "link": null,
       "locked": false,
+      "startBinding": {
+        "elementId": "vtHwUPf-VuOvy0tKZpQe0",
+        "focus": 0.34516115426205307,
+        "gap": 9.43747170470104
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
@@ -3892,41 +3905,32 @@
           485,
           176
         ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "vtHwUPf-VuOvy0tKZpQe0",
-        "focus": 0.34516115426205307,
-        "gap": 9.43747170470104
-      },
-      "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": "arrow"
+      ]
     },
     {
-      "id": "Oe8dFEsRCRTkWsDFtPIf1",
       "type": "rectangle",
-      "x": 1649.2372622083499,
-      "y": 873.5429480519701,
-      "width": 441,
-      "height": 260,
-      "angle": 0,
-      "strokeColor": "#2f9e44",
-      "backgroundColor": "transparent",
+      "version": 70,
+      "versionNonce": 1860370341,
+      "isDeleted": false,
+      "id": "Oe8dFEsRCRTkWsDFtPIf1",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1649.2372622083499,
+      "y": 873.5429480519701,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 441,
+      "height": 260,
+      "seed": 703817515,
       "groupIds": [],
       "frameId": null,
       "roundness": {
         "type": 3
       },
-      "seed": 703817515,
-      "version": 70,
-      "versionNonce": 1860370341,
-      "isDeleted": false,
       "boundElements": [
         {
           "type": "text",
@@ -3938,14 +3942,96 @@
       "locked": false
     },
     {
-      "id": "MPAhMi9gxx068O9fbYfJ-",
       "type": "text",
+      "version": 294,
+      "versionNonce": 1447079813,
+      "isDeleted": false,
+      "id": "MPAhMi9gxx068O9fbYfJ-",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
       "x": 1674.5774721692874,
       "y": 903.5429480519701,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
       "width": 390.319580078125,
       "height": 200,
+      "seed": 1680961995,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1716761996025,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Other key commands\n \nGit revert [commit ID] -removes that \ncommit\n\nGit cherry-pick [commit ID] - is the \nopposite of revert.\n",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Oe8dFEsRCRTkWsDFtPIf1",
+      "originalText": "Other key commands\n \nGit revert [commit ID] -removes that commit\n\nGit cherry-pick [commit ID] - is the opposite of revert.\n",
+      "lineHeight": 1.25,
+      "baseline": 194
+    },
+    {
+      "id": "FTO-IkwVOp80I0iRrWksW",
+      "type": "ellipse",
+      "x": 1429.7372622083503,
+      "y": -1031.9570519480299,
+      "width": 521,
+      "height": 191,
       "angle": 0,
-      "strokeColor": "#2f9e44",
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1380642510,
+      "version": 61,
+      "versionNonce": 660056398,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Zu_QzheEBGxbgvayRniHZ",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "xtOqJj8NtO-z2KdP4XzwK"
+        },
+        {
+          "id": "5ekcKgiynL1tZSbRqoVYb",
+          "type": "arrow"
+        },
+        {
+          "id": "OeQle2l2WV4SPRUe4yHwy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1718551009486,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "xtOqJj8NtO-z2KdP4XzwK",
+      "type": "text",
+      "x": 1512.3761404114032,
+      "y": -961.4857495513452,
+      "width": 355.3196105957031,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#e03131",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -3955,22 +4041,440 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 1680961995,
-      "version": 294,
-      "versionNonce": 1447079813,
+      "seed": 442495566,
+      "version": 84,
+      "versionNonce": 1527707470,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1716761996025,
+      "updated": 1718550357670,
       "link": null,
       "locked": false,
-      "text": "Other key commands\n \nGit revert [commit ID] -removes that \ncommit\n\nGit cherry-pick [commit ID] - is the \nopposite of revert.\n",
+      "text": "Well known problems/errors and their\nsolutions",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "center",
       "verticalAlign": "middle",
-      "baseline": 193,
-      "containerId": "Oe8dFEsRCRTkWsDFtPIf1",
-      "originalText": "Other key commands\n \nGit revert [commit ID] -removes that commit\n\nGit cherry-pick [commit ID] - is the opposite of revert.\n",
+      "baseline": 43,
+      "containerId": "FTO-IkwVOp80I0iRrWksW",
+      "originalText": "Well known problems/errors and their solutions",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "5ekcKgiynL1tZSbRqoVYb",
+      "type": "arrow",
+      "x": 1559.8818041485636,
+      "y": -833.8643183453927,
+      "width": 127.14454194021323,
+      "height": 48.90726639736283,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1994061454,
+      "version": 68,
+      "versionNonce": 2000910482,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718550466900,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -127.14454194021323,
+          48.90726639736283
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "FTO-IkwVOp80I0iRrWksW",
+        "focus": -0.3789127523433251,
+        "gap": 19.493717739130105
+      },
+      "endBinding": {
+        "elementId": "KyXLoJC1TEahFtEhEFBK2",
+        "focus": 0.27129122763261254,
+        "gap": 21
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "KyXLoJC1TEahFtEhEFBK2",
+      "type": "rectangle",
+      "x": 1213.7372622083503,
+      "y": -820.9570519480299,
+      "width": 198,
+      "height": 113,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1650342930,
+      "version": 49,
+      "versionNonce": 160269582,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "TDOdaPRNMAkGzmIqNoqEj"
+        },
+        {
+          "id": "5ekcKgiynL1tZSbRqoVYb",
+          "type": "arrow"
+        },
+        {
+          "id": "0hNlftTgRxC0Dc4uo7fk8",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1718550984207,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "TDOdaPRNMAkGzmIqNoqEj",
+      "type": "text",
+      "x": 1232.1773638318855,
+      "y": -789.4570519480299,
+      "width": 161.1197967529297,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 995238546,
+      "version": 53,
+      "versionNonce": 92863758,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718550466184,
+      "link": null,
+      "locked": false,
+      "text": "Failed to  push \nsome refs",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 43,
+      "containerId": "KyXLoJC1TEahFtEhEFBK2",
+      "originalText": "Failed to  push some refs",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Ai5Qj4MUP8sQMUTkfeZvj",
+      "type": "arrow",
+      "x": 630.7372622083503,
+      "y": 135.04294805197014,
+      "width": 353,
+      "height": 218,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 829916370,
+      "version": 15,
+      "versionNonce": 1229974158,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718550612199,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          353,
+          -218
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "vJszTicKtOs52aWJmm8f4",
+        "focus": -0.5083529204750874,
+        "gap": 30.055862541263934
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "nTIFx16Yv4IYCALzy1QTx",
+      "type": "rectangle",
+      "x": 927.7372622083503,
+      "y": -256.95705194802986,
+      "width": 350,
+      "height": 133,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1766137614,
+      "version": 17,
+      "versionNonce": 1634815886,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "fREs4vAemmgzTLJ5_qIBj"
+        }
+      ],
+      "updated": 1718551009486,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "fREs4vAemmgzTLJ5_qIBj",
+      "type": "text",
+      "x": 946.277453858741,
+      "y": -227.95705194802986,
+      "width": 312.91961669921875,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1709313678,
+      "version": 114,
+      "versionNonce": 150492046,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718550833721,
+      "link": null,
+      "locked": false,
+      "text": "Solutions to these errors will \nfollow the traffic ligths colour \nscheme on safety of use.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 68,
+      "containerId": "nTIFx16Yv4IYCALzy1QTx",
+      "originalText": "Solutions to these errors will follow the traffic ligths colour scheme on safety of use.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "OeQle2l2WV4SPRUe4yHwy",
+      "type": "arrow",
+      "x": 1078.7372622083503,
+      "y": -293.95705194802986,
+      "width": 563,
+      "height": 540,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1185368078,
+      "version": 58,
+      "versionNonce": 819890254,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718551054661,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          563,
+          -540
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "FTO-IkwVOp80I0iRrWksW",
+        "focus": -0.20928635202471077,
+        "gap": 8.649180878274038
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ODAKuyKdJtjedeHpNXCke",
+      "type": "arrow",
+      "x": 1215.7372622083503,
+      "y": -712.9570519480299,
+      "width": 33,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1016548558,
+      "version": 11,
+      "versionNonce": 1136076498,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718551117663,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -33,
+          30
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "VjTkM5mkJ6Apc-S3B2YQW",
+        "focus": 0.729586776859504,
+        "gap": 13
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "VjTkM5mkJ6Apc-S3B2YQW",
+      "type": "rectangle",
+      "x": 949.7372622083503,
+      "y": -708.9570519480299,
+      "width": 220.00000000000006,
+      "height": 75.00000000000001,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1771047634,
+      "version": 19,
+      "versionNonce": 1718606,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ODAKuyKdJtjedeHpNXCke",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "tjx56NSm80OWHVX8EPRfE"
+        }
+      ],
+      "updated": 1718551152498,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "tjx56NSm80OWHVX8EPRfE",
+      "type": "text",
+      "x": 955.1573977063972,
+      "y": -696.4570519480299,
+      "width": 209.15972900390625,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1105573074,
+      "version": 29,
+      "versionNonce": 154984078,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1718551183711,
+      "link": null,
+      "locked": false,
+      "text": "Git push origin main -\nforce",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 43,
+      "containerId": "VjTkM5mkJ6Apc-S3B2YQW",
+      "originalText": "Git push origin main -force",
       "lineHeight": 1.25
     }
   ],
