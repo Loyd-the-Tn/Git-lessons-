@@ -1,0 +1,29 @@
+#!/bin/bash
+
+sudo apt-get update
+
+git --version 
+
+Gitavail=$( echo $? )
+
+if [[ ${Gitavail} != 0 ]]
+then
+    sudo apt install git || sudo dnf install git
+
+    read -p " Please insert your username " name
+    git config --global user.name "${name}" 
+
+    read -p " Please insert your username email" mail
+    git config --global user.email "${mail}" 
+
+    echo " Are you happy with the following settings :"
+
+    ${(git config --list)}
+
+    echo "If need any help <git --help>  will be the place"
+
+else 
+
+    echo "Git is already available on your system"
+
+fi 
